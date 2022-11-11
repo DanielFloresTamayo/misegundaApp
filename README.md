@@ -1,0 +1,2 @@
+# misegundaApp
+Ejerciio en clase
